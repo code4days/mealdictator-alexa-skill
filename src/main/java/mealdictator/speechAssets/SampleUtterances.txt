@@ -1,0 +1,19 @@
+DialogMealIntent {City}
+
+OneshotMealIntent feed me in {City}
+OneshotMealIntent find me a restaurant in {City}
+OneshotMealIntent find a restaurant in {City}
+OneshotMealIntent find me a place to eat in {City}
+OneshotMealIntent find a place to eat in {City}
+OneshotMealIntent where should I eat in {City}
+OneshotMealIntent give me a restaurant in {City}
+OneshotMealIntent give me a place to eat in {City}
+OneshotMealIntent place to eat in {City}
+OneshotMealIntent food in {City}
+OneshotMealIntent breakfast in {City}
+OneshotMealIntent lunch in {City}
+OneshotMealIntent dinner in {City}
+OneshotMealIntent I am hungry in {City}
+OneshotMealIntent I'm hungry in {City}
+OneshotMealIntent I want to eat in {City}
+
